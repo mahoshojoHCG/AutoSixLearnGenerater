@@ -1,1 +1,5 @@
-# AutoSixLearnGenerater
+这是一个自动生成六学的工具，使用这个工具，你可以化身六学家。
+
+修改要点：_sixLearnDictionary储存的六学用语是会原封不动的出现，而sixlearnTuples里的则相当于映射关系。注意：一个char只能出现一次。
+
+由于白龙马和白骨精都是白开头的，这里单独判断了一下白骨精
